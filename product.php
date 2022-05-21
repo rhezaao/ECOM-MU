@@ -121,10 +121,10 @@ if(isset($_POST['addprod'])){
 	
 <body>
 <!-- header -->
-	<div class="agileits_header">
+<div class="agileits_header">
 		<div class="container">
 			<div class="w3l_offers">
-				<p>DAPATKAN PENAWARAN MENARIK KHUSUS HARI INI, BELANJA SEKARANG!</p>
+				<p>SOKIN BELANJA!</p>
 			</div>
 			<div class="agile-login">
 				<ul>
@@ -166,11 +166,11 @@ if(isset($_POST['addprod'])){
 		<div class="container">
 		<div class="w3ls_logo_products_left1">
 				<ul class="phone_email">
-					<li><i class="fa fa-phone" aria-hidden="true"></i>Hubungi Kami : (+6281) 222 333</li>
+					<img src="images/logoemyu.png" width="70px" height="70px" alt="">
 				</ul>
 			</div>
 			<div class="w3ls_logo_products_left">
-				<h1><a href="index.php">Tokopekita</a></h1>
+				<h1><a href="index.php">WARUNG MANG UJANG</a></h1>
 			</div>
 		<div class="w3l_search">
 			<form action="search.php" method="post">
@@ -301,9 +301,9 @@ if(isset($_POST['addprod'])){
 					<h3>Hubungi Kami</h3>
 					
 					<ul class="address">
-						<li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>Richard's Lab, DKI Jakarta.</li>
-						<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:info@email">info@email</a></li>
-						<li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>+62 8113 2322</li>
+						<li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>Rheza Agung Luckianto, Kota Depok.</li>
+						<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:rezaagung2205@email">rezaagung2205@email</a></li>
+						<li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>+62 813 1625 3687</li>
 					</ul>
 				</div>
 				<div class="col-md-3 w3_footer_grid">
@@ -330,9 +330,9 @@ if(isset($_POST['addprod'])){
 			<div class="container">
 				<div class="w3layouts-foot">
 					<ul>
-						<li><a href="#" class="w3_agile_instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-						<li><a href="#" class="w3_agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-						<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+						<li><a href="https://www.instagram.com/rhezagung/" class="w3_agile_instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+						<li><a href="https://web.facebook.com/rheza.agung.71" class="w3_agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+						<li><a href="https://twitter.com/rhezaao" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
 					</ul>
 				</div>
 				<div class="payment-w3ls">	
